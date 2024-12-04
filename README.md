@@ -4,7 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Gluestack Ui v2
 
-This is an project created with [gluestack](https://gluestack.io/).
+This is an project make with [gluestack](https://gluestack.io/).
 
 
 ## Get started
